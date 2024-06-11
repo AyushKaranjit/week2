@@ -1,0 +1,36 @@
+body{margin;0;}
+header{}
+header div:first-child {
+	text-align:center;padding:2%;background:blue;width:46%;float : left;
+}
+header div:nth-child(2) {
+	text-align:center;padding:2%;background:green;width:46%;float : left;
+}
+.clear{clear:both;}
+nav{
+	background: red;
+
+}
+
+nav ul li{
+	margin: 5px;
+	list-style:none;
+	float:left;
+	background: yellow;
+
+}
+
+a{
+	text-decoration:none;
+}
+
+section div:first-child{
+	text-align:center;padding:2%;background:green;width:46%;float : left;
+}
+section div:nth-child(2){
+	text-align:center;padding:2%;background:blue;width:46%;float : left;
+}
+
+footer{
+	text-align:center;padding:1%;background:yellow;width:98%;float : left;
+}
